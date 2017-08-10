@@ -1,0 +1,1 @@
+<html><?php include './index.php'; ?></html>

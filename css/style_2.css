@@ -1,0 +1,16 @@
+#tab_fr{
+font-size:12pt;
+}
+
+#tab_content{
+border-right:1px solid #dddddd;border-left:1px solid #dddddd;border-bottom:1px solid #dddddd;
+}
+
+.tab-pane{
+font-size:10pt;
+}
+
+#tab1,#tab2,#tab3,#tab4,#tab5
+{
+	margin-left:10px;
+}

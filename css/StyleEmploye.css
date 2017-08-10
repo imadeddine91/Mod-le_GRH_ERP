@@ -1,0 +1,75 @@
+
+#tabe1{
+    border: 1px solid #002200;
+      margin: 0% 20% 1% 20%;
+    text-align: center;
+    width: 70%
+    
+}
+td{
+    padding:0% 0% 2% 0%;
+     text-align: center;
+     width: 10%;
+      font-weight: bold;
+      font-family: "Comic Sans MS";
+}
+legend{
+    
+    font-style: italic;
+    font-weight: bold;
+      margin: 2% 0% 1% 5%;
+}
+span{
+    font-weight: bold;
+      color:red ;
+       font-family: "Comic Sans MS";
+        font-size: 14px;
+        
+       
+}
+
+
+
+
+li{
+   
+     text-align: center;
+      font-size: 14px;
+   
+      font-weight: bold;
+      font-family: "Comic Sans MS"; 
+    
+}
+
+.container{
+     margin: 0% 0% 0% 0%;
+}
+.tab-pane{
+     margin: 0% 0% 0% 21%;
+    
+}
+.menubare{
+    margin: 7% 0% 0% 25%;
+}
+fieldset{
+     margin: 0% 15% 3% 0%;
+}
+.table-responsive{
+    
+     margin: 1% 0% 0% 0%;
+}
+.titre{
+      font-style: italic;
+    font-weight: bold;
+     margin: 0% 0% 0% 5%;
+    
+}
+.scrollbar{
+    
+    width: 100%;
+    right: 10%;
+}
+.btn btn-primary{
+    
+    margin: 0% 15% 3% 0%;;
+}

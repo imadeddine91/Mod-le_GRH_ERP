@@ -1,0 +1,46 @@
+.header-fixed {
+    width: 100% 
+}
+
+.header-fixed > thead,
+.header-fixed > tbody,
+.header-fixed > thead > tr,
+.header-fixed > tbody > tr,
+.header-fixed > thead > tr > th,
+.header-fixed > tbody > tr > td {
+    display: block;
+}
+
+.header-fixed > tbody > tr:after,
+.header-fixed > thead > tr:after {
+    content: ' ';
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+
+.header-fixed > tbody {
+    overflow-y: auto;
+    height: 250px;
+}
+
+.header-fixed > tbody > tr > td,
+.header-fixed > thead > tr > th {
+    width: 20%;
+    float: left;
+}
+
+tr {
+width: 100%;
+display: inline-table;
+}
+
+table{
+ height:300px;              // <-- Select the height of the table
+}
+tbody{
+  overflow-y: scroll;      
+  height: 250px;            //  <-- Select the height of the body
+  width: 100%;
+  position: absolute;
+}
